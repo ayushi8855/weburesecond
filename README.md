@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ##Feautures:
 
-### Responsive :site is responsive for all screen size
+### Responsive :Site is responsive for all screen size
 ### Animation  :As mentioned icons behind the image are animated
 
 
@@ -16,5 +16,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### install react-bootsrap
 
 
-## deployed link: https://silly-parfait-3cbe3b.netlify.app/
+## Deployed link: https://silly-parfait-3cbe3b.netlify.app/
 
