@@ -14,7 +14,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ##How to run the file:
 ### `npm i`
-### install react-bootsrap
+### `install react-bootsrap`
 ### `npm start`
 
 
